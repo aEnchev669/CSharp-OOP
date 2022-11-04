@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4. Need for Speed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Inheritance - Exercise\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4. Need for Speed.genruntimeconfig.cache

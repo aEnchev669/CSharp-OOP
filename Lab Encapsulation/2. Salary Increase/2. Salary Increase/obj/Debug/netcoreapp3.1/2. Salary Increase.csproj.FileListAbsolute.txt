@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\2. Salary Increase\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.genruntimeconfig.cache

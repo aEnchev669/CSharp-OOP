@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\bin\Debug\netcoreapp3.1\3. Validation.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Encapsulation\3. Validation\3. Validation\obj\Debug\netcoreapp3.1\3. Validation.genruntimeconfig.cache

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\1. Class Box Data\\1. Class Box Data\\1. Class Box Data.csproj",
-      "projectName": "1. Class Box Data",
-      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\1. Class Box Data\\1. Class Box Data\\1. Class Box Data.csproj",
+      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\1. Class Box Data\\1. Class Box Data\\1.ClassBoxData.csproj",
+      "projectName": "1.ClassBoxData",
+      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\1. Class Box Data\\1. Class Box Data\\1.ClassBoxData.csproj",
       "packagesPath": "C:\\Users\\aench\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\1. Class Box Data\\1. Class Box Data\\obj\\",
       "projectStyle": "PackageReference",

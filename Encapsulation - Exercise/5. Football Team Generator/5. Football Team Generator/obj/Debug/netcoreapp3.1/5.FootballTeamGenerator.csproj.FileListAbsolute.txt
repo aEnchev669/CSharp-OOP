@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\bin\Debug\netcoreapp3.1\5.FootballTeamGenerator.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Encapsulation - Exercise\5. Football Team Generator\5. Football Team Generator\obj\Debug\netcoreapp3.1\5.FootballTeamGenerator.genruntimeconfig.cache

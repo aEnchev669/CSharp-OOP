@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Football Team Generator", "5. Football Team Generator\5. Football Team Generator.csproj", "{CE035608-47BE-4996-9CD2-E73FA38A859B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.FootballTeamGenerator", "5. Football Team Generator\5.FootballTeamGenerator.csproj", "{CE035608-47BE-4996-9CD2-E73FA38A859B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

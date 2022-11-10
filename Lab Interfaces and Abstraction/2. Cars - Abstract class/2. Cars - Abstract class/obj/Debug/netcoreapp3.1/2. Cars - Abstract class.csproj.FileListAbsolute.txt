@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\bin\Debug\netcoreapp3.1\2. Cars - Abstract class.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Interfaces and Abstraction\2. Cars - Abstract class\2. Cars - Abstract class\obj\Debug\netcoreapp3.1\2. Cars - Abstract class.genruntimeconfig.cache

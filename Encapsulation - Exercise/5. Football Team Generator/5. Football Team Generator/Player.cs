@@ -32,6 +32,6 @@ namespace FootballTeamGenerator
 
         public Stats Stats { get; private set; }
 
-        public double OverallRating => (this.Stats.Endurance + this.Stats.Sprint + this.Stats.Dribble + this.Stats.Passing + this.Stats.Shooting) / 5;
+        public double OverallRating => (this.Stats.Endurance + this.Stats.Sprint + this.Stats.Dribble + this.Stats.Passing + this.Stats.Shooting) / 5.0;
     }
 }

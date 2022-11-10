@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\5. Football Team Generator\\5. Football Team Generator\\5. Football Team Generator.csproj",
-      "projectName": "5. Football Team Generator",
-      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\5. Football Team Generator\\5. Football Team Generator\\5. Football Team Generator.csproj",
+      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\5. Football Team Generator\\5. Football Team Generator\\5.FootballTeamGenerator.csproj",
+      "projectName": "5.FootballTeamGenerator",
+      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\5. Football Team Generator\\5. Football Team Generator\\5.FootballTeamGenerator.csproj",
       "packagesPath": "C:\\Users\\aench\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Encapsulation - Exercise\\5. Football Team Generator\\5. Football Team Generator\\obj\\",
       "projectStyle": "PackageReference",

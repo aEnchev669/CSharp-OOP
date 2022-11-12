@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\bin\Debug\netcoreapp3.1\7.MilitaryElite.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Interfaces and Abstraction - Exercise\7. Military Elite\7. Military Elite\obj\Debug\netcoreapp3.1\7.MilitaryElite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\bin\Debug\netcoreapp3.1\Is.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Polymorphism\Is\Is\obj\Debug\netcoreapp3.1\Is.genruntimeconfig.cache

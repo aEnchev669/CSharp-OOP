@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _3._Shapes
+namespace Shapes
 {
-    internal class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

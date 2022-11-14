@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\bin\Debug\netcoreapp3.1\4. Wild Farm.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Polymorphism - Exercises\4. Wild Farm\4. Wild Farm\obj\Debug\netcoreapp3.1\4. Wild Farm.genruntimeconfig.cache

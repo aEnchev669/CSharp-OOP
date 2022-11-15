@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\bin\Debug\netcoreapp3.1\1. Square Root.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Exceptions and Error Handling Lab\1. Square Root\1. Square Root\obj\Debug\netcoreapp3.1\1. Square Root.genruntimeconfig.cache

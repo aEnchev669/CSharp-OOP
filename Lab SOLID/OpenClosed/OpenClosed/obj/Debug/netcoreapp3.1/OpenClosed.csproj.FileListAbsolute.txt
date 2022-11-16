@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab SOLID\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache

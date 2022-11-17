@@ -1,6 +1,7 @@
 ﻿using Logger.Core.Enums;
 using Logger.Core.Exceptions;
 using Logger.Core.Models.Interfaces;
+using Logger.Core.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,27 +13,38 @@ namespace Logger.Core.Models
     public class Message : IMessage
     {
 
-        private string messageText;
-        private string dateTime;
+        private string? messageText;
+        private string? dateTime;
 
         public Message(string messageText, string dataTime, ReportLevel reportLevel)
         {
             this.MessageText = messageText;
-
+            this.dateTime = dataTime;
+            this.ReportLevel = reportLevel;
         }
         public string DateType
         {
             get
             {
-                return this.dateTime;
+                return this.dateTime!;
             }
             private set
             {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new EmptyDayTimeException();
+                }
+                if (!DateTimeValidator.IsDateTimeValid(value))
+                {
+                    throw new InvalidDateTimeException();
+                }
 
+                this.dateTime = value;
             }
         }
 
-        public ReportLevel reportLevel { get; private set; }
+        public ReportLevel ReportLevel { get; private set; }
+
 
         public string MessageText
         {
@@ -42,7 +54,7 @@ namespace Logger.Core.Models
             }
             private set
             {
-                if (string.IsNullOrWhiteSpace(messageText))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new EmptyMessageTextException();
                 }

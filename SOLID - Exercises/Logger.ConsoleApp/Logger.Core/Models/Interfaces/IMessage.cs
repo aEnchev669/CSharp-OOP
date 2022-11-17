@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+
 
 namespace Logger.Core.Models.Interfaces
 {
-    internal class IMessage
+    using Enums;
+    public interface IMessage
     {
+        string MessageText { get; }
+        string DateTime { get; }
+
+        ReportLevel ReportLevel { get; }
     }
 }

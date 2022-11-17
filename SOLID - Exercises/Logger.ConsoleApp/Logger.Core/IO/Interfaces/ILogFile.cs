@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Logger.Core.IO.Interfaces
 {
-    internal interface IFile
+    public interface ILogFile
     {
+        string Name { get; }
+        string Path { get; }
+        int Size { get; }
+        string Content { get; }
+        void Write(string text);
     }
 }

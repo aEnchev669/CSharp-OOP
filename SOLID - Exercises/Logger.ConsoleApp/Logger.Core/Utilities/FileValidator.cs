@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Logger.Core.Utilities
 {
-    internal class FileValidator
+    public static class FileValidator
     {
+        public static bool PathExist(string path)
+        {
+            return Directory.Exists(path);
+        }
     }
 }

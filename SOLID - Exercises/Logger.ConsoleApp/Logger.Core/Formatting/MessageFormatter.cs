@@ -10,7 +10,7 @@ namespace Logger.Core.Formatting
     {
         public string Format(IMessage message, ILayout layout)
         {
-            return string.Format(layout.Format, message.DateTime);
+            return string.Format(layout.Format, message.DateTime, message.ReportLevel.ToString(), message.MessageText);
         }
     }
 }

@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+
+using Logger.Core.Layouts.Interfaces;
+using Logger.Core.Models.Interfaces;
 
 namespace Logger.Core.Formatting.Interfaces
 {
-    internal interface IFormatter
+    public interface IFormatter
     {
+        string Format(IMessage message, ILayout layout);
     }
 }

@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Logger.Core.Exceptions
 {
-    internal class EmptyDayTimeException
+    public class EmptyDayTimeException : Exception
     {
+        private const string DefaultMessage = "DateTime message cannot be null or whitespace!";
+        public EmptyDayTimeException(): base(DefaultMessage)
+        {
+
+        }
+
+        public EmptyDayTimeException(string text) : base (text)
+        {
+
+        }
     }
 }

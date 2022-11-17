@@ -22,7 +22,7 @@ namespace Logger.Core.Models
             this.dateTime = dataTime;
             this.ReportLevel = reportLevel;
         }
-        public string DateType
+        public string DateTime
         {
             get
             {
@@ -50,7 +50,7 @@ namespace Logger.Core.Models
         {
             get
             {
-                return this.DateType;
+                return this.messageText!;
             }
             private set
             {

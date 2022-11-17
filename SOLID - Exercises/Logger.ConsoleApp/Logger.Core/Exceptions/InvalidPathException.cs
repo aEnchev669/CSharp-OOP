@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Logger.Core.Exceptions
 {
-    internal class InvalidPathException
+    public class InvalidPathException : Exception
     {
+        private const string DEFAULTMESSAGE = "Provided path does not exist or it is invalid";
+
+        public InvalidPathException() : base(DEFAULTMESSAGE)
+        {
+
+        }
+        public InvalidPathException(string message) : base(message)
+        {
+
+        }
     }
 }

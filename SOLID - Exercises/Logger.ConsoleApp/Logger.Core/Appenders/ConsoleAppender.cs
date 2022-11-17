@@ -30,7 +30,8 @@ namespace Logger.Core.Appenders
 
         public void AppendMessage(IMessage message)
         {
-            string output = this.formatter
+            string output = this.formatter.Format(message, this.Layout);
+            Console.WriteLine(output);
         }
     }
 }

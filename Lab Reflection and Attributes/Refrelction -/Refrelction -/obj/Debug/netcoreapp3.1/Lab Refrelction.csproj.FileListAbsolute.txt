@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.exe
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\bin\Debug\netcoreapp3.1\Lab Refrelction.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.dll
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\CSharp-OOP\Lab Reflection and Attributes\Refrelction -\Refrelction -\obj\Debug\netcoreapp3.1\Lab Refrelction.genruntimeconfig.cache

@@ -31,7 +31,7 @@ namespace Logger.Core.IO
             }
         }
 
-        public string Path
+        public string Path 
         {
             get
             {

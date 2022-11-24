@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vd+ywZokMTz4w42ThqfH6QaD4/+CxtgDpsDKROfeXfiWyK0QkDSebfaV/Lx/XAU3VbKxE+Fe4xS+V4U0h5kaKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\CSharp-OOP\\Lab Mocking and Test Driven Development - INStock\\MoqExample\\MoqExample\\MoqExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aench\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\aench\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
